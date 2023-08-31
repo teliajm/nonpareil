@@ -1,0 +1,19 @@
+{
+  "name": "nonpareil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teliajm/nonpareil.git"
+  },
+  "author": "Jesper Molin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teliajm/nonpareil/issues"
+  },
+  "homepage": "https://github.com/teliajm/nonpareil#readme"
+}
